@@ -1,6 +1,6 @@
 # MDPA
 official implementation of the paper MDPA: Margin-based Dual Prototypes Adaptation for Cross-Subject Motor Imagery EEG Decoding
-
+![Graphical Abstract](GraphAbstract.jpg)
 ## Data download and preprocessing
 - get BCI competition IV dataset from https://www.bbci.de/competition/iv/
 
