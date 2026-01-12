@@ -13,6 +13,4 @@ the architecture included in the paper can be found in:
 - SST-DPN: https://github.com/hancan16/SST-DPN
 
 ## Demo code
-- a simple demo code to compute TOPA loss is MDPA_demo.py
-
 - a implementation for EEG cross-subjects classification is MDPA_main.ipynb
